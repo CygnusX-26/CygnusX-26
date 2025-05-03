@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=CygnusX-26&layout=compact)
+![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=CygnusX-26&layout=compact)
 
 
 <!--
