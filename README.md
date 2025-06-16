@@ -1,4 +1,4 @@
-![stats card]([https://github-readme-stats.vercel.app/api/top-langs/?username=CygnusX-26&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=CygnusX-26&layout=compact&hide=css,html))
+![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=CygnusX-26&layout=compact&hide=css,html)
 
 
 <!--
